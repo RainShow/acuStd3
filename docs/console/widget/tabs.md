@@ -38,7 +38,5 @@ sidebarDepth: 0
 
 ![图片](http://baiduyun-guideline.bj.bcebos.com/console/widget/Tab/4_2x.png)
 
-## 代码参考
 
-    Happy Code,Happy Life
 
